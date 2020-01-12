@@ -61,26 +61,26 @@ const Validator = () => {
 
       <button
         onClick={() => handleClick(json)}
-        className="btn btn-lg btn-dark m-2"
+        className="btn btn-dark m-2"
         disabled={!json}
       >
         Format JSON
       </button>
 
-      <button onClick={handleSampleClick} className="btn btn-lg btn-dark m-2">
+      <button onClick={handleSampleClick} className="btn btn-dark m-2">
         Sample JSON
       </button>
 
       {json && isValid && (
         <button
           onClick={() => handleSaveClick(json)}
-          className="btn btn-lg btn-dark m-2"
+          className="btn btn-dark m-2"
         >
           Save JSON
         </button>
       )}
 
-      <button onClick={handleClearClick} className="btn btn-lg btn-danger m-2">
+      <button onClick={handleClearClick} className="btn btn-danger m-2">
         Clear
       </button>
 
