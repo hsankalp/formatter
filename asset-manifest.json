@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/json-formatter/static/css/main.21bb0c7a.chunk.css",
+    "main.js": "/json-formatter/static/js/main.9d4ca156.chunk.js",
+    "main.js.map": "/json-formatter/static/js/main.9d4ca156.chunk.js.map",
+    "runtime-main.js": "/json-formatter/static/js/runtime-main.bccc85eb.js",
+    "runtime-main.js.map": "/json-formatter/static/js/runtime-main.bccc85eb.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/json-formatter/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.fd9e3e28.chunk.js": "/json-formatter/static/js/2.fd9e3e28.chunk.js",
+    "static/js/2.fd9e3e28.chunk.js.map": "/json-formatter/static/js/2.fd9e3e28.chunk.js.map",
+    "index.html": "/json-formatter/index.html",
+    "precache-manifest.7b293cb0e5eb89059b28c36df52485ec.js": "/json-formatter/precache-manifest.7b293cb0e5eb89059b28c36df52485ec.js",
+    "service-worker.js": "/json-formatter/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/json-formatter/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.21bb0c7a.chunk.css.map": "/json-formatter/static/css/main.21bb0c7a.chunk.css.map",
+    "static/js/2.fd9e3e28.chunk.js.LICENSE": "/json-formatter/static/js/2.fd9e3e28.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bccc85eb.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.fd9e3e28.chunk.js",
+    "static/css/main.21bb0c7a.chunk.css",
+    "static/js/main.9d4ca156.chunk.js"
+  ]
+}
